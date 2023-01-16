@@ -3,6 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyamo&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanyamo&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 kanyamoです。読みはかにゃもです。
 
 自分のwebアプリケーションやスマホアプリを作成することに興味があります。
