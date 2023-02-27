@@ -2,7 +2,7 @@
 
 kanyamoです。読みはかにゃもです。
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kanyamo&color=brightgreen&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyamo&theme=dark
 )](https://github.com/anuraghazra/github-readme-stats)
