@@ -4,6 +4,8 @@
   kanyamo です。読みは かにゃも です。
 </p>
 
+*kanyamo* は、"**ka**-nya-mo is **N**ot kan-**yamo**"の略です。
+
 <p align="center">
   <img alt="profile visits" src="https://komarev.com/ghpvc/?username=kanyamo&color=brightgreen&style=for-the-badge">
 </p>
@@ -17,14 +19,14 @@
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kanyamo&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)">
 </p>
 
-<p align="center">
+<p>
 自分の web アプリケーションやスマホアプリを作成することに興味があります。
 </p>
   
-<p align="center">
+<p>
 使用技術は Python, Django, HTML, CSS, JavaScript, TypeScript, React, AWS, Nginx, Dart, Flutter です。
 </p>
 
-<p align="center">
+<p>
 Hello, my name is kanyamo. It is read as ka-nya-mo. I am interested in creating my own web application or smartphone application. Technologies I use are Python, Django, HTML, CSS, JavaScript, TypeScript, React, AWS, Nginx, Dart, Flutter.
 </p>
