@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kanyamo&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=kanyamo&theme=dark&column=)](https://github.com/ryo-ma/github-profile-trophy)">
 </p>
 
 <p>
