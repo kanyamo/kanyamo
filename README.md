@@ -1,10 +1,8 @@
 # kanyamo
 
-<p align="center">
+<p>
   kanyamo です。読みは かにゃも です。
 </p>
-
-*kanyamo* は、"**ka**-nya-mo is **N**ot kan-**yamo**"の略です。
 
 <p align="center">
   <img alt="profile visits" src="https://komarev.com/ghpvc/?username=kanyamo&color=brightgreen&style=for-the-badge">
@@ -22,11 +20,9 @@
 <p>
 自分の web アプリケーションやスマホアプリを作成することに興味があります。
 </p>
-  
-<p>
-使用技術は Python, Django, HTML, CSS, JavaScript, TypeScript, React, AWS, Nginx, Dart, Flutter です。
-</p>
 
 <p>
-Hello, my name is kanyamo. It is read as ka-nya-mo. I am interested in creating my own web application or smartphone application. Technologies I use are Python, Django, HTML, CSS, JavaScript, TypeScript, React, AWS, Nginx, Dart, Flutter.
+Hello, my name is kanyamo. It is read as ka-nya-mo. I am interested in creating my own web application or smartphone application.
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,lit,webpack,node,react,nextjs,nestjs,prisma,graphql,py,django,dart,flutter,postgres,docker,aws,git,github,githubactions,linux,nginx)](https://skillicons.dev)
