@@ -25,4 +25,4 @@
 Hello, my name is kanyamo. It is read as ka-nya-mo. I am interested in creating my own web application or smartphone application.
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,lit,webpack,node,react,nextjs,nestjs,prisma,graphql,py,django,dart,flutter,postgres,docker,aws,git,github,githubactions,linux,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,lit,webpack,nodejs,react,nextjs,nestjs,prisma,graphql,py,django,dart,flutter,postgres,docker,aws,git,github,githubactions,linux,nginx)](https://skillicons.dev)
